@@ -1,10 +1,4 @@
 Hi Word !!
-<<<<<<< HEAD
+
 Hii Geeks for Geek !
-Hii
-Hello !!
-Hii
 
-Hello Git!!
-
-Hello !!
