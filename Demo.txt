@@ -1,5 +1,6 @@
 Hi Word !!
-Hello Geeks for Geeks !
+<<<<<<< HEAD
+Hii Geeks for Geek !
 Hii
 Hello !!
 Hii
